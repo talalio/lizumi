@@ -24,4 +24,4 @@ the buid file `./build.sh`.
 Linux + ねずみ = Lizumi
 
 
-## This RAT was made for educational purposes.
+ **This RAT was built for educational purposes.**
