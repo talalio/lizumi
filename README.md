@@ -15,8 +15,8 @@ $ cd liznmi
 $ cargo run listen 127.0.0.1 1337
 ```
 
-To generate a payload move to `lizumi/pawn/payload/`, change the listening host and port in the source file `pawn.rs` and run
-the buid file `./build.sh`.
+To generate a payload move to `lizumi/src/pawn/payload/`, change the listening host and port in the source file `pawn.rs` and run
+the build file `./build.sh`, note that you will need to have rust installed to compile the payload.
 
 
 ### The name ?
