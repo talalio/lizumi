@@ -1,8 +1,8 @@
 
 # Lizumi
 
-A simpe remote access trojan that i build as a challenge to myself. This was build during a 
-week with no internet access and no external packages, using only rust's local documentation 
+A simple remote access trojan that i built as a challenge to myself. This was built in a 
+week, with no internet access and no external packages, using only rust's local documentation 
 as a help.
 
 The payload generation command isn't done yet, and some commands are not implemented on the payload (e.g. scrshot).
